@@ -1,7 +1,7 @@
 <package>
   <description brief="denso_arm">
 
-     This is a package to control the Denso arm through ROS (http://www.densorobotics.com).
+    This is a package to control the Denso arm through ROS (http://www.densorobotics.com).
 
   </description>
   <author>Ugo Cupcic / Dan Greenwald / ugo@shadowrobot.com</author>

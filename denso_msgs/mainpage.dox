@@ -2,9 +2,9 @@
 \mainpage
 \htmlinclude manifest.html
 
-\b denso_msgs is ... 
+\b denso_msgs contains some messages used for the denso arm.
 
-<!-- 
+<!--
 Provide an overview of your package.
 -->
 

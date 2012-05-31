@@ -2,7 +2,7 @@
 \mainpage
 \htmlinclude manifest.html
 
-\b denso_arm is ...
+\b denso_arm is a package to control the Denso arm through ROS (http://www.densorobotics.com).
 
 <!--
 Provide an overview of your package.

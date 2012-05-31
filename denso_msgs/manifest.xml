@@ -1,7 +1,7 @@
 <package>
   <description brief="denso_msgs">
 
-     This package contains some messages used for the denso arm.
+    This package contains some messages used for the denso arm.
 
   </description>
   <author>Ugo Cupcic / ugo@shadowrobot.com</author>
